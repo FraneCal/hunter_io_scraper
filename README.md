@@ -1,1 +1,1 @@
-# hunter_io_scraper
+# hunter.io scraper
